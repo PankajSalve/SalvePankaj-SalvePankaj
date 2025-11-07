@@ -64,8 +64,8 @@ Data Analytics | Cyber Security | Teaching & Mentoring
 
 ### 💬 Let's Connect
 📫 Reach me at: **salvepankaj@example.com** *(replace with your actual contact)*  
-💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/salvepankaj)  
-🌐 Portfolio: [yourwebsite.com](https://salvepankaj.vercel.app/)
+💼 LinkedIn: [Visit Here](www.linkedin.com/in/salvepankaj)  
+🌐 Portfolio: [Visit Here](https://salvepankaj.vercel.app/)
 
 ---
 
