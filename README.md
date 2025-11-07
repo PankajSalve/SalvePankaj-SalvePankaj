@@ -48,17 +48,36 @@ Data Analytics | Cyber Security | Teaching & Mentoring
 
 ### 📊 Tech Ratings
 
-| Language | Skill Level |
-|-----------|--------------|
-| C         | 8/10 |
-| C++       | 7/10 |
-| Python    | 9/10 |
-| Java      | 8/10 |
-| SQL       | 9/10 |
-| PHP       | 7/10 |
-| HTML/CSS/JS | 8/10 |
-| Oracle / Databases | 9/10 |
-| Cyber Security | 8.5/10 |
+**C**
+<div align="left">
+  <img src="https://progress-bar.dev/80/?title=8/10&width=300&color=00bfff" />
+</div>
+
+**C++**
+<div align="left">
+  <img src="https://progress-bar.dev/70/?title=7/10&width=300&color=ffb700" />
+</div>
+
+**Python**
+<div align="left">
+  <img src="https://progress-bar.dev/90/?title=9/10&width=300&color=2ecc71" />
+</div>
+
+**Java**
+<div align="left">
+  <img src="https://progress-bar.dev/80/?title=8/10&width=300&color=9b59b6" />
+</div>
+
+**SQL / Databases**
+<div align="left">
+  <img src="https://progress-bar.dev/90/?title=9/10&width=300&color=3498db" />
+</div>
+
+**Cyber Security**
+<div align="left">
+  <img src="https://progress-bar.dev/85/?title=8.5/10&width=300&color=e67e22" />
+</div>
+
 
 
 ---
