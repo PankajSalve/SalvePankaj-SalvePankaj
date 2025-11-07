@@ -48,36 +48,12 @@ Data Analytics | Cyber Security | Teaching & Mentoring
 
 ### 📊 Tech Ratings
 
-**C**
-<div align="left">
-  <img src="https://progress-bar.dev/80/?title=8/10&width=300&color=00bfff" />
-</div>
-
-**C++**
-<div align="left">
-  <img src="https://progress-bar.dev/70/?title=7/10&width=300&color=ffb700" />
-</div>
-
-**Python**
-<div align="left">
-  <img src="https://progress-bar.dev/90/?title=9/10&width=300&color=2ecc71" />
-</div>
-
-**Java**
-<div align="left">
-  <img src="https://progress-bar.dev/80/?title=8/10&width=300&color=9b59b6" />
-</div>
-
-**SQL / Databases**
-<div align="left">
-  <img src="https://progress-bar.dev/90/?title=9/10&width=300&color=3498db" />
-</div>
-
-**Cyber Security**
-<div align="left">
-  <img src="https://progress-bar.dev/85/?title=8.5/10&width=300&color=e67e22" />
-</div>
-
+![C](https://img.shields.io/badge/C-8%2F10-00bfff?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-7%2F10-ffb700?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-9%2F10-2ecc71?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-8%2F10-9b59b6?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-9%2F10-3498db?style=for-the-badge)
+![Cyber%20Security](https://img.shields.io/badge/Cyber%20Security-8.5%2F10-e67e22?style=for-the-badge)
 
 
 ---
