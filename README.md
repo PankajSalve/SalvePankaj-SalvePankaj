@@ -46,12 +46,20 @@ Data Analytics | Cyber Security | Teaching & Mentoring
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Tech Ratings
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalvePankaj&show_icons=true&theme=radical" alt="Pankaj's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvePankaj&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+| Language | Skill Level |
+|-----------|--------------|
+| C         | 8/10 |
+| C++       | 7/10 |
+| Python    | 9/10 |
+| Java      | 8/10 |
+| SQL       | 9/10 |
+| PHP       | 7/10 |
+| HTML/CSS/JS | 8/10 |
+| Oracle / Databases | 9/10 |
+| Cyber Security | 8.5/10 |
+
 
 ---
 
